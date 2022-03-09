@@ -1,0 +1,4 @@
+[debug] [inverse_kinematics_testing-build] Classpath dependencies List()
+[debug] [inverse_kinematics_testing-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'inverse_kinematics_testing-build' to '/home/peik/Documents/inverse_kinematics_testing/project/.bloop/inverse_kinematics_testing-build.json'
+[success] Generated .bloop/inverse_kinematics_testing-build.json
